@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Dino",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "79c4961f-3b70-4fc5-a092-6b8cb421f80f",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "89f870fd-acfd-4bd5-985f-20dda20efcab",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "22a265bf-6590-4fc1-b31e-8331bb4e5351",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
